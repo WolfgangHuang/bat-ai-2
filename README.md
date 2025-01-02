@@ -9,3 +9,6 @@ Contains
 - masking/PII removal
 - vectorisation
 - ml-based class prediction with random forest, LogisticRegression and XGBoost
+
+The code assumes a certain data structure, so it will not be easily usable for just any other data. If you wish to adopt it for your purposes, feel free to contact me.
+The repo does not contain the data (only code). PII removal is part of the process, so I cannot share the unmasked data.
